@@ -1,0 +1,14 @@
+# --- OS / editor transient files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- LibreOffice / Office lock files (transient, must never be committed) ---
+.~lock.*#
+~$*
+*.tmp
+
+# --- Backups ---
+*.bak
+*.swp
+*~
